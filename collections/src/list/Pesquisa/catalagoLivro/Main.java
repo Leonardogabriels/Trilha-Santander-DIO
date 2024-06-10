@@ -1,4 +1,4 @@
-package list.pesquisa.catalagoLivro;
+package list.Pesquisa.catalagoLivro;
 
 public class Main {
 	public static void main(String[] args) {
